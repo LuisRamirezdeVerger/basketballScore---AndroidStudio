@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Basketball Score</string>
+    <string name="localTeam">Local Team</string>
+    <string name="visitorTeam">Visitor Team</string>
+    <string name="header">Local - Visitor</string>
+    <string name="localWins">Local Team Wins!</string>
+    <string name="visitorWins">Visitor Team Wins!</string>
+    <string name="draw">Draw!</string>
+    <string name="plusOne">+1</string>
+    <string name="plusTwo">+2</string>
+    <string name="minusOne">-1</string>
+    <string name="result"> > </string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+    <string name="results">Results</string>
+    <string name="finalScore">Final Score</string>
+    <string name="versus">VS</string>
+    <string name="comeBack">Return</string>
+</resources>
